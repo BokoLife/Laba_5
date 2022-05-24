@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VehicleCataloque>
+    <Vehicle>
+        <Id>373</Id>
+        <Name>Велик</Name>
+        <Coordinates>202,59</Coordinates>
+        <CreationDate>1649713961241</CreationDate>
+        <EnginePower>10</EnginePower>
+        <Type>CAR</Type>
+        <FuelType>MANPOWER</FuelType>
+    </Vehicle>
+    <Vehicle>
+        <Id>48</Id>
+        <Name>Аврора</Name>
+        <Coordinates>500,200</Coordinates>
+        <CreationDate>1649713961241</CreationDate>
+        <EnginePower>2343</EnginePower>
+        <Type>SHIP</Type>
+        <FuelType>NUCLEAR</FuelType>
+    </Vehicle>
+</VehicleCataloque>

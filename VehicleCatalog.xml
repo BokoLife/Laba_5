@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VehicleCataloque>
+    <Vehicle>
+        <Id>113</Id>
+        <Name>jfkdls</Name>
+        <Coordinates>432,100</Coordinates>
+        <CreationDate>1650964191593</CreationDate>
+        <EnginePower>32</EnginePower>
+        <Type>SHIP</Type>
+        <FuelType>NUCLEAR</FuelType>
+    </Vehicle>
+</VehicleCataloque>

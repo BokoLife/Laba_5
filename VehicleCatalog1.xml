@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VehicleCatalogue>
+    <Vehicle>
+        <Id>373</Id>
+        <Name>Велик</Name>
+        <Coordinates>202,59</Coordinates>
+        <CreationDate>1649713961241</CreationDate>
+        <EnginePower>10</EnginePower>
+        <Type>CAR</Type>
+        <FuelType>MANPOWER</FuelType>
+    </Vehicle>
+</VehicleCatalogue>

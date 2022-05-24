@@ -1,0 +1,5 @@
+show
+remove_by_id 48
+show
+print_field_descending_engine_power
+execute_script commands.txt
